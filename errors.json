@@ -48,5 +48,6 @@
     "E7004": "NFT pack does not exists",
     "E7005": "NFT pack token does not exists",
     "E7006": "You don't own this Arcus Pack",
-    "E7007": "An error occurred while selecting items"
+    "E7007": "An error occurred while selecting items",
+    "E7008": "Invalid NFT pack item index"
 }
