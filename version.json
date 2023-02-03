@@ -1,0 +1,19 @@
+{
+    "Contracts": {
+        "Arcus": "1.0.0",
+        "ArcusEther": "1.0.0",
+        "ArcusMarketplace": "1.0.0",
+        "ArcusPack": "1.0.0",
+        "ArcusToken": "1.0.0",
+        "ArcusWarrior": "1.0.0",
+        "ArcusWeapon": "1.0.0",
+        "PackManager": "1.0.0",
+        "RoundManager": "1.0.0",
+        "SeedGenerator": "1.0.0",
+        "WhitelistManager": "1.0.0"
+    },
+    "networks": {
+        "97": "1.0.0",
+        "4002": "1.0.0"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "E1001": "Owner only",
+    "E1002": "Game master only",
+    "E1003": "Can only call this function once per block",
+
+    "E1501": "ERC2981Royalties: Too high",
+
+    "E2001": "Payment token not allowed",
+    "E2002": "Payment token already exists",
+    "E2003": "Payment token does not exists",
+
+    "E3001": "Insufficient whitelist token",
+    "E3002": "Insufficient payment token",
+    "E3003": "Insufficient whitelist token",
+    "E3004": "Invalid start date",
+    "E3005": "Invalid edition",
+    "E3006": "Round hasn't started yet",
+    "E3007": "Round max limit reached",
+    "E3008": "Round is invalid",
+    "E3009": "Round user limit reached",
+    "E3010": "Invalid NFT index",
+
+
+    "E3501": "Length of receivers must math with length of amounts",
+    "E3502": "You can only send to a maximum of 500 receivers per batch",
+
+    "E4001": "NFT collection already exists",
+    "E4002": "NFT collection not allowed",
+    "E4003": "NFT type not supported",
+
+    "E5001": "You don't own this NFT",
+    "E5002": "NFT is not listed",
+    "E5003": "Price is invalid",
+    "E5004": "You already own this NFT",
+    "E5005": "Amount is invalid",
+    "E5006": "Treasury can't be the burn address",
+    "E5007": "Platform fee is invalid",
+    "E5008": "Fees exceed the total price",
+    "E5009": "Partner fee is invalid",
+
+    "E6001": "ERC4907: Transfer caller is not owner nor approved",
+    "E6002": "NFT is currently being rented.",
+    "E6003": "NFT is not tradeable",
+
+    "E7001": "Invalid NFT pack type",
+    "E7002": "Max pack items reached",
+    "E7003": "Pack item quantity is invalid",
+    "E7004": "NFT pack does not exists",
+    "E7005": "NFT pack token does not exists",
+    "E7006": "You don't own this Arcus Pack",
+    "E7007": "An error occurred while selecting items"
+}
