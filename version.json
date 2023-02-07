@@ -1,20 +1,20 @@
 {
     "Contracts": {
-        "Arcus": "1.0.1",
-        "ArcusEther": "1.0.1",
+        "Arcus": "1.0.2",
+        "ArcusEther": "1.0.2",
         "ArcusMarketplace": "1.0.1",
-        "ArcusChest": "1.0.1",
+        "ArcusChest": "1.0.2",
         "ArcusToken": "1.0.1",
-        "ArcusWarrior": "1.0.1",
-        "ArcusWeapon": "1.0.1",
-        "ChestManager": "1.0.3",
-        "RoundManager": "1.0.1",
+        "ArcusWarrior": "1.0.2",
+        "ArcusWeapon": "1.0.2",
+        "ChestManager": "1.0.4",
+        "RoundManager": "1.0.2",
         "SeedManager": "1.0.1",
         "WhitelistManager": "1.0.1"
     },
     "networks": {
         "97": "1.0.1",
-        "4002": "1.0.1"
+        "4002": "1.0.2"
     },
     "errors": "1.0.0"
 }
