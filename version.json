@@ -1,12 +1,12 @@
 {
     "Contracts": {
         "Arcus": "1.0.2",
-        "ArcusEther": "1.0.2",
+        "ArcusEther": "1.0.3",
         "ArcusMarketplace": "1.0.1",
         "ArcusChest": "1.0.2",
         "ArcusToken": "1.0.1",
-        "ArcusWarrior": "1.0.2",
-        "ArcusWeapon": "1.0.2",
+        "ArcusWarrior": "1.0.3",
+        "ArcusWeapon": "1.0.3",
         "ChestManager": "1.0.4",
         "RoundManager": "1.0.2",
         "SeedManager": "1.0.1",
