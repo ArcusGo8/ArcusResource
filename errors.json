@@ -49,5 +49,16 @@
     "E7005": "NFT pack token does not exists",
     "E7006": "You don't own this Arcus Pack",
     "E7007": "An error occurred while selecting items",
-    "E7008": "Invalid NFT pack item index"
+    "E7008": "Invalid NFT pack item index",
+
+    "E8001": "Player does not have an active scholarship",
+    "E8002": "Player already have an active scholarship",
+    "E8003": "Manager is not active",
+    "E8004": "Manager already active",
+    "E8005": "Invalid approval code",
+    "E8006": "You cannot apply to yourself",
+    "E8007": "No pending applications found",
+
+    "E9001": "Insufficient scroll",
+    "E9002": "Nft is already tradeable"
 }

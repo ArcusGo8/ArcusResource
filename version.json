@@ -1,6 +1,6 @@
 {
     "Contracts": {
-        "Arcus": "1.0.2",
+        "Arcus": "1.0.3",
         "ArcusEther": "1.0.5",
         "ArcusMarketplace": "1.0.1",
         "ArcusChest": "1.0.5",
@@ -10,11 +10,12 @@
         "ChestManager": "1.0.4",
         "RoundManager": "1.0.2",
         "SeedManager": "1.0.1",
-        "WhitelistManager": "1.0.1"
+        "WhitelistManager": "1.0.1",
+        "CrystalToken": "1.0.0"
     },
     "networks": {
-        "97": "1.0.3",
-        "4002": "1.0.3"
+        "97": "1.0.4",
+        "4002": "1.0.4"
     },
-    "errors": "1.0.0"
+    "errors": "1.0.1"
 }
