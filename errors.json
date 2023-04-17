@@ -19,10 +19,12 @@
     "E3008": "Round is invalid",
     "E3009": "Round user limit reached",
     "E3010": "Invalid NFT index",
+    "E3011": "Invalid rarity",
 
 
     "E3501": "Length of receivers must math with length of amounts",
     "E3502": "You can only send to a maximum of 500 receivers per batch",
+    "E3503": "You can only send to a maximum of 10 receivers per batch",
 
     "E4001": "NFT collection already exists",
     "E4002": "NFT collection not allowed",
